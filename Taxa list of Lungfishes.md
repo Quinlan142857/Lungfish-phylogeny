@@ -115,21 +115,21 @@ New taxa and references added along with the research.
 [*Chirodipterus onawayensis*](https://www.deepbone.org/public/#/explor?s_id=4104&functionId=Deepbone_header_searchResultOpen)
 > middle Givetian, 386.07, 384.37
 
-> - Koehler Limestone Formation, Traverse Group, Presque Isle County, Michigan锛孶SA
+> - Koehler Limestone Formation, Traverse Group, Presque Isle County, Michigan, USA
 > - Schultze, 1982
 
 [*Chirodipterus wildungensis*](https://www.deepbone.org/public/#/explor?s_id=3173&functionId=Deepbone_header_searchResultOpen)
 > upper Frasnian, Late Devonian, 375.7, 372.2
 
 > - Koehler Limestone, Traverse Group, Presque Isle County, Michigan, USA
-> - S盲ve-S枚derbergh, 1952
+> - Schultze, 1982
 > - **Clearly, this species comes from Bad Wuldungen, Germany. see sites github. There is another species from USA, not this one. Add authors and date.**
 > - see below "Chirodipterus onawayensis" from USA
 
 [*Conchopoma gadiforme*](https://www.deepbone.org/public/#/explor?s_id=6050&functionId=Deepbone_header_searchResultOpen)
-> **No data in deepbone**
+> Cisuralian, 298.9, 273.01
 
-> - **No data in deepbone**
+> - Humberg near Odernheim am Glan, Germany
 > - Heidtke, 1986
 
 [*Ctenodus cristatus*](https://www.deepbone.org/public/#/explor?s_id=72308&functionId=Deepbone_header_searchResultOpen)
@@ -141,7 +141,7 @@ New taxa and references added along with the research.
 [*Delatitia breviceps*](https://www.deepbone.org/public/#/explor?s_id=4677&functionId=Deepbone_header_searchResultOpen)
 > Tournaisian, 358.9, 346.7
 
-> - Devil鈥檚 Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia
+> - Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia
 > - Long and Campbell, 1985
 
 [*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1984
@@ -168,7 +168,7 @@ New taxa and references added along with the research.
 > - Lick Hole Limestone, Ravine, New South Wales, Australia
 > - Campbell and Barwick, 1982b
 
-[*Dipnorhynchus kurikae*]
+[*Dipnorhynchus kurikae*](https://www.deepbone.org/public/#/explor?s_id=74601&functionId=Deepbone_header_searchResultOpen)
 > Emsian, 407.6, 393.3
 
 > - Taemas-Wee Jasper limestones, Burrinjuck Dam, New South Wales, Australia
@@ -209,7 +209,7 @@ New taxa and references added along with the research.
 [*Fleurantia denticulata*](https://www.deepbone.org/public/#/explor?s_id=3189&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
 
-> - Escuminac Formation, Shore of River Ristigouche, Miguasha锛孋anada
+> - Escuminac Formation, Shore of River Ristigouche, Miguasha, Canada
 > - Graham-Smith and Westoll, 1937; Friedman, 2007; Cloutier, 2013; Cloutier et al., 2011
 
 [*Gnathorhiza serrata*](https://www.deepbone.org/public/#/explor?s_id=72369&functionId=Deepbone_header_searchResultOpen)
@@ -231,10 +231,9 @@ New taxa and references added along with the research.
 > - Schultze, 1969; Gross, 1956; Friedman, 2007
 
 [*Griphognathus sculpta*](https://www.deepbone.org/public/#/explor?s_id=4219&functionId=Deepbone_header_searchResultOpen)
-> **No data in deepbone**
 > lowest Frasnian, 382.7, 379.2
 
-> - **No data in deepbone**
+> - Gladbach, Bergish Gladbach, Oberer Plattenkalk, Germany
 > - Schultze, 1969
 
 [*Griphognathus whitei*](https://www.deepbone.org/public/#/explor?s_id=163647&functionId=Deepbone_header_searchResultOpen)
@@ -275,7 +274,7 @@ New taxa and references added along with the research.
 > - **new date: MAV8, Taggerty-Mt. Howitta fauna, late Givetian; keep consistency with sites github, early gnathostome github.**
 
 [*Ichnomylax kurnai*](https://www.deepbone.org/public/#/explor?s_id=3149&functionId=Deepbone_header_searchResultOpen)
-> Pragian, 410.8, 407.6/upper Pragian to lower Emsian, 408.67, 402.84 (**check it**)
+> upper Pragian to lower Emsian, 410.8, 393.3
 
 > - Bell Point Formation, Waratah Bay, Victoria, Australia
 > - Long et al., 1994
@@ -356,7 +355,7 @@ New taxa and references added along with the research.
 [*Pentlandia macropterus*](https://www.deepbone.org/public/#/explor?s_id=163605&functionId=Deepbone_header_searchResultOpen)
 > upper Givetian, 384.37, 382.7
 
-> - Last House Formation, John O鈥橤roats Sandstone Group, Orcadian Basin, John O鈥橤roats, Caithness, Scotland
+> - Last House Formation, John O’Groats Sandstone Group, Orcadian Basin, John O’Groats, Caithness, Scotland
 > - Jude et al., 2014; Challands and den Blaauwen, 2016
 
 [*Persephonichthys chthonica*](https://www.deepbone.org/public/#/explor?s_id=72086&functionId=Deepbone_header_searchResultOpen)
@@ -378,7 +377,7 @@ New taxa and references added along with the research.
 > - Campbell and Barwick, 1990; Barwick and Campbell, 1996
 
 [*Rhinodipterus kimberleyensis*](https://www.deepbone.org/public/#/explor?s_id=72487&functionId=Deepbone_header_searchResultOpen)
-> upper Givetian to lower Frasnian, 384.37, 379.2 (**check the upper Givetian**)
+> Frasnian, 382.7, 372.2
 
 > - Gogo Formation, Western Australia, Australia
 > - Clement, 2012; Clement and Ahlberg, 2014; Clement et al., 2016
@@ -393,7 +392,7 @@ New taxa and references added along with the research.
 > Givetian, 387.7, 382.7
 
 > - Oberer Plattenkalk Formation, Heiligenstock Quarry, North Rhine-Westphalia, Germany
-> - 脴rvig, 1960; Schultze, 1992
+> - Ørvig, 1960; Schultze, 1992
 
 [*Rhynchodipterus elginensis*](https://www.deepbone.org/public/#/explor?s_id=4468&functionId=Deepbone_header_searchResultOpen)
 > lower Famennian, 372.2, 368.88
@@ -416,7 +415,7 @@ New taxa and references added along with the research.
 [*Scaumenacia curta*](https://www.deepbone.org/public/#/explor?s_id=3195&functionId=Deepbone_header_searchResultOpen)
 > - lower Frasnian, 382.7, 379.2
 
-> - Escuminac Formation, Shore of River Ristigouche, Miguasha锛孋anada
+> - Escuminac Formation, Shore of River Ristigouche, Miguasha, Canada
 > - Cloutier, 2013; Cloutier et al., 2011
 
 [*Sinodipterus beibei*](https://www.deepbone.org/public/#/explor?s_id=3179&functionId=Deepbone_header_searchResultOpen)
@@ -512,23 +511,23 @@ New taxa and references added along with the research.
 [*Palaeodaphus insignis*]
 > - Frasnian, 382.7, 372.2
 
-[*Quebecius quebecensis*]
+[*Quebecius quebecensis*](https://www.deepbone.org/public/#/explor?s_id=72189&functionId=Deepbone_header_searchResultOpen)
 > Frasnian, 382.7, 372.2
 > - Escuminac Formation, Ristigouche River at Miguasha, Province of Quebec, Canada
 
 [*Laccognathus*]
 > - Givetian, 387.7, 382.7
 
-[*Raynerius splendens*]
+[*Raynerius splendens*](https://www.deepbone.org/public/#/explor?s_id=3044&functionId=Deepbone_header_searchResultOpen)
 > middle Frasnian, 379.2, 375.7
 
-[*Grossipterus_crassus*]
+[*Grossipterus_crassus*](https://www.deepbone.org/public/#/explor?s_id=4204&functionId=Deepbone_header_searchResultOpen)
 > uppest Givetian, 384.37382.7
 
 [*Durialepis*]
 > lower Emsian, 407.6, 402.84
 
-[*Nasogaluakus chorni*]
+[*Nasogaluakus chorni*](https://www.deepbone.org/public/#/explor?s_id=72191&functionId=Deepbone_header_searchResultOpen)
 > Emsian, 407.6, 393.3
 
 > - Bear Rock Formation
